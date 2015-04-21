@@ -1,0 +1,1 @@
+Sistema experto de orientación vocacional es una aplicación desarrollada en Android.
